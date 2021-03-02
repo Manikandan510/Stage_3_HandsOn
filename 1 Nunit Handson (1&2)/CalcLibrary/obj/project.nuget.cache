@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xj6ZsleAPyruT6agNHho5CXrLy1CGQi+7NXUUSngyiPSEWoc3uwNAawDr+87bjragTbGY5lUb/763tOS6PiSSw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Stage 3Handsons\\1 Nunit Handson\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

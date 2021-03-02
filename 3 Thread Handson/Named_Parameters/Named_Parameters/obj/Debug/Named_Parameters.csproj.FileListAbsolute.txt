@@ -1,0 +1,7 @@
+D:\C#\Nunit Handsons\3 Thread Handson\1\Named_Parameters\Named_Parameters\bin\Debug\Named_Parameters.exe.config
+D:\C#\Nunit Handsons\3 Thread Handson\1\Named_Parameters\Named_Parameters\bin\Debug\Named_Parameters.exe
+D:\C#\Nunit Handsons\3 Thread Handson\1\Named_Parameters\Named_Parameters\bin\Debug\Named_Parameters.pdb
+D:\C#\Nunit Handsons\3 Thread Handson\1\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.csprojAssemblyReference.cache
+D:\C#\Nunit Handsons\3 Thread Handson\1\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.csproj.CoreCompileInputs.cache
+D:\C#\Nunit Handsons\3 Thread Handson\1\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.exe
+D:\C#\Nunit Handsons\3 Thread Handson\1\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.pdb

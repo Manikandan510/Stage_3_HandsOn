@@ -1,0 +1,9 @@
+D:\C#\Stage_3Handsons\4_WinServices_Handson\Image_Display_WinFrom\Image_Display_WinFrom\bin\Debug\Image_Display_WinFrom.exe.config
+D:\C#\Stage_3Handsons\4_WinServices_Handson\Image_Display_WinFrom\Image_Display_WinFrom\bin\Debug\Image_Display_WinFrom.exe
+D:\C#\Stage_3Handsons\4_WinServices_Handson\Image_Display_WinFrom\Image_Display_WinFrom\bin\Debug\Image_Display_WinFrom.pdb
+D:\C#\Stage_3Handsons\4_WinServices_Handson\Image_Display_WinFrom\Image_Display_WinFrom\obj\Debug\Image_Display_WinFrom.Form1.resources
+D:\C#\Stage_3Handsons\4_WinServices_Handson\Image_Display_WinFrom\Image_Display_WinFrom\obj\Debug\Image_Display_WinFrom.Properties.Resources.resources
+D:\C#\Stage_3Handsons\4_WinServices_Handson\Image_Display_WinFrom\Image_Display_WinFrom\obj\Debug\Image_Display_WinFrom.csproj.GenerateResource.cache
+D:\C#\Stage_3Handsons\4_WinServices_Handson\Image_Display_WinFrom\Image_Display_WinFrom\obj\Debug\Image_Display_WinFrom.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\4_WinServices_Handson\Image_Display_WinFrom\Image_Display_WinFrom\obj\Debug\Image_Display_WinFrom.exe
+D:\C#\Stage_3Handsons\4_WinServices_Handson\Image_Display_WinFrom\Image_Display_WinFrom\obj\Debug\Image_Display_WinFrom.pdb

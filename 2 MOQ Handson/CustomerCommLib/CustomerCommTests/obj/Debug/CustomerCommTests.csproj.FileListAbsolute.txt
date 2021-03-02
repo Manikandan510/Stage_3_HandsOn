@@ -1,0 +1,96 @@
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.Mdb.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.Pdb.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.Rocks.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.core.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.core.interfaces.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.util.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.engine.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.engine.api.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.engine.core.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommTests.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommTests.pdb
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\Castle.Core.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommLib.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\Moq.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.framework.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\Castle.Core.xml
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommLib.pdb
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\Moq.xml
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.framework.xml
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.csprojAssemblyReference.cache
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.csproj.CoreCompileInputs.cache
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.csproj.CopyComplete
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.dll
+D:\C#\Nunit Handsons\Moq\1\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.pdb
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.Mdb.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.Pdb.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.Rocks.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.core.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.core.interfaces.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.util.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.engine.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.engine.api.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.engine.core.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommTests.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommTests.pdb
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\Castle.Core.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommLib.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\Moq.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.framework.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\Castle.Core.xml
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommLib.pdb
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\Moq.xml
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.framework.xml
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.csprojAssemblyReference.cache
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.csproj.CoreCompileInputs.cache
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.csproj.CopyComplete
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\1\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.pdb
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.csprojAssemblyReference.cache
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.csproj.CoreCompileInputs.cache
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.pdb
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.Mdb.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.Pdb.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\Mono.Cecil.Rocks.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.core.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.core.interfaces.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.util.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.engine.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.engine.api.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.engine.core.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommTests.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommTests.pdb
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\Castle.Core.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommLib.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\Moq.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.framework.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\Castle.Core.xml
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\CustomerCommLib.pdb
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\Moq.xml
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\nunit.framework.xml
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\Stage 3Handsons\2 MOQ Handson\CustomerCommLib\CustomerCommTests\obj\Debug\CustomerCommTests.csproj.CopyComplete

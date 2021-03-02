@@ -1,0 +1,7 @@
+D:\C#\Nunit Handsons\3 Thread Handson\1\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+D:\C#\Nunit Handsons\3 Thread Handson\1\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+D:\C#\Nunit Handsons\3 Thread Handson\1\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+D:\C#\Nunit Handsons\3 Thread Handson\1\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csprojAssemblyReference.cache
+D:\C#\Nunit Handsons\3 Thread Handson\1\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\C#\Nunit Handsons\3 Thread Handson\1\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+D:\C#\Nunit Handsons\3 Thread Handson\1\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
