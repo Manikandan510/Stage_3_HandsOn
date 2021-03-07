@@ -19,6 +19,7 @@ namespace Image_Display_WinFrom
 
         private void btnSelect_Click(object sender, EventArgs e)
         {
+            openFileDialog1.Filter = "Image Files(*.BMP;*.JPG;*.GIF)|*.BMP;*.JPG;*.GIF";
             DialogResult dr = openFileDialog1.ShowDialog();
             if (dr == DialogResult.OK) 
             {
