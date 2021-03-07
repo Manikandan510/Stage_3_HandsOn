@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J49p8iwm3AUeo9SbwXwC7fTtl2HyBjLbC0Bi8V21fhJI6hbHfboso9b9XjJDF4A2YFzkafnLgOaA0MGuV/eOAQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Stage_3Handsons\\5_ASP_CORE_HANDSON\\CodeAnalysis\\CodeAnalysis\\CodeAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manik\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\5.0.3\\microsoft.codeanalysis.netanalyzers.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

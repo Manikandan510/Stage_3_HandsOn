@@ -1,0 +1,13 @@
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.exe
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.deps.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.runtimeconfig.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.runtimeconfig.dev.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\bin\Debug\netcoreapp3.1\FirstConsole.pdb
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.AssemblyInfoInputs.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.AssemblyInfo.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.pdb
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\FirstConsole\FirstConsole\obj\Debug\netcoreapp3.1\FirstConsole.genruntimeconfig.cache
