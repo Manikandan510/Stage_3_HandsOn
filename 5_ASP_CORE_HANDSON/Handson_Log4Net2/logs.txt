@@ -1,0 +1,1 @@
+2021-03-13 11:59:04,508 INFO log4net.Core.LoggerManager - File is Logged

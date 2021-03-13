@@ -1,0 +1,42 @@
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\log4net.config
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\7 Handson_Log4Net.exe
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\7 Handson_Log4Net.deps.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\7 Handson_Log4Net.runtimeconfig.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\7 Handson_Log4Net.runtimeconfig.dev.json
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\7 Handson_Log4Net.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\7 Handson_Log4Net.pdb
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\7 Handson_Log4Net.Views.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\7 Handson_Log4Net.Views.pdb
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\log4net.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.AssemblyInfoInputs.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.AssemblyInfo.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.RazorAssemblyInfo.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.RazorAssemblyInfo.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\staticwebassets\7 Handson_Log4Net.StaticWebAssets.Manifest.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\staticwebassets\7 Handson_Log4Net.StaticWebAssets.xml
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\scopedcss\bundle\7 Handson_Log4Net.styles.css
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.TagHelpers.input.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.TagHelpers.output.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.RazorCoreGenerate.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.RazorTargetAssemblyInfo.cache
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.RazorTargetAssemblyInfo.cs
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.Views.pdb
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.csproj.CopyComplete
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.dll
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.pdb
+D:\C#\Stage_3Handsons\5_ASP_CORE_HANDSON\7 Handson_Log4Net\7 Handson_Log4Net\obj\Debug\netcoreapp3.1\7 Handson_Log4Net.genruntimeconfig.cache

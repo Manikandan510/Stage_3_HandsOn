@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 Handson_Log4Net", "7 Handson_Log4Net\7 Handson_Log4Net.csproj", "{A055517A-1D86-4275-BAD2-589E14F9335E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A055517A-1D86-4275-BAD2-589E14F9335E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A055517A-1D86-4275-BAD2-589E14F9335E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A055517A-1D86-4275-BAD2-589E14F9335E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A055517A-1D86-4275-BAD2-589E14F9335E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A75733F1-A9AC-4244-BBB6-B8BEF440E5DF}
+	EndGlobalSection
+EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Stage_3Handsons\\5_ASP_CORE_HANDSON\\HandsOn_Log4Net\\HandsOn_Log4Net\\HandsOn_Log4Net.csproj": {}
+    "C:\\Users\\manik\\Desktop\\Stage_3_HandsOn\\5_ASP_CORE_HANDSON\\HandsOn_Log4Net\\HandsOn_Log4Net\\HandsOn_Log4Net.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Stage_3Handsons\\5_ASP_CORE_HANDSON\\HandsOn_Log4Net\\HandsOn_Log4Net\\HandsOn_Log4Net.csproj": {
+    "C:\\Users\\manik\\Desktop\\Stage_3_HandsOn\\5_ASP_CORE_HANDSON\\HandsOn_Log4Net\\HandsOn_Log4Net\\HandsOn_Log4Net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Stage_3Handsons\\5_ASP_CORE_HANDSON\\HandsOn_Log4Net\\HandsOn_Log4Net\\HandsOn_Log4Net.csproj",
+        "projectUniqueName": "C:\\Users\\manik\\Desktop\\Stage_3_HandsOn\\5_ASP_CORE_HANDSON\\HandsOn_Log4Net\\HandsOn_Log4Net\\HandsOn_Log4Net.csproj",
         "projectName": "HandsOn_Log4Net",
-        "projectPath": "D:\\C#\\Stage_3Handsons\\5_ASP_CORE_HANDSON\\HandsOn_Log4Net\\HandsOn_Log4Net\\HandsOn_Log4Net.csproj",
+        "projectPath": "C:\\Users\\manik\\Desktop\\Stage_3_HandsOn\\5_ASP_CORE_HANDSON\\HandsOn_Log4Net\\HandsOn_Log4Net\\HandsOn_Log4Net.csproj",
         "packagesPath": "C:\\Users\\manik\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Stage_3Handsons\\5_ASP_CORE_HANDSON\\HandsOn_Log4Net\\HandsOn_Log4Net\\obj\\",
+        "outputPath": "C:\\Users\\manik\\Desktop\\Stage_3_HandsOn\\5_ASP_CORE_HANDSON\\HandsOn_Log4Net\\HandsOn_Log4Net\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\V S Components tools SDK\\NuGetPackages",
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
