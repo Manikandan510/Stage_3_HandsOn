@@ -1,0 +1,7 @@
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Car_Case_Observer\Car_Case_Observer\bin\Debug\Car_Case_Observer.exe.config
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Car_Case_Observer\Car_Case_Observer\bin\Debug\Car_Case_Observer.exe
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Car_Case_Observer\Car_Case_Observer\bin\Debug\Car_Case_Observer.pdb
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Car_Case_Observer\Car_Case_Observer\obj\Debug\Car_Case_Observer.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Car_Case_Observer\Car_Case_Observer\obj\Debug\Car_Case_Observer.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Car_Case_Observer\Car_Case_Observer\obj\Debug\Car_Case_Observer.exe
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Car_Case_Observer\Car_Case_Observer\obj\Debug\Car_Case_Observer.pdb

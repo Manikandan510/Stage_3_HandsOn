@@ -1,0 +1,7 @@
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\PracticeCase\PracticeCase\bin\Debug\PracticeCase.exe.config
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\PracticeCase\PracticeCase\bin\Debug\PracticeCase.exe
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\PracticeCase\PracticeCase\bin\Debug\PracticeCase.pdb
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\PracticeCase\PracticeCase\obj\Debug\PracticeCase.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\PracticeCase\PracticeCase\obj\Debug\PracticeCase.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\PracticeCase\PracticeCase\obj\Debug\PracticeCase.exe
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\PracticeCase\PracticeCase\obj\Debug\PracticeCase.pdb
