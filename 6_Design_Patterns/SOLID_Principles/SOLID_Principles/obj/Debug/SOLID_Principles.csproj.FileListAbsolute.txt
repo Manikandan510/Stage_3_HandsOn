@@ -1,0 +1,7 @@
+D:\C#\Stage_3Handsons\6 Design Principles\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\6 Design Principles\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+D:\C#\Stage_3Handsons\6 Design Principles\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+D:\C#\Stage_3Handsons\6 Design Principles\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+D:\C#\Stage_3Handsons\6 Design Principles\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.pdb

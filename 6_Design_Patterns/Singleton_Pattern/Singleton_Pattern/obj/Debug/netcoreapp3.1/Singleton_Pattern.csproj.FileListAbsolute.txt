@@ -1,0 +1,13 @@
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.exe
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.deps.json
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.runtimeconfig.json
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.runtimeconfig.dev.json
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.AssemblyInfoInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.AssemblyInfo.cs
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.genruntimeconfig.cache

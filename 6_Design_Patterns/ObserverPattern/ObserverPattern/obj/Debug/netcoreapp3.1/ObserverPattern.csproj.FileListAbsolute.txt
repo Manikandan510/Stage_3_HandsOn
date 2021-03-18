@@ -1,0 +1,13 @@
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfoInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfo.cs
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.exe
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.deps.json
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.json
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.dev.json
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.genruntimeconfig.cache

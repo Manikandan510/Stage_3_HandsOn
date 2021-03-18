@@ -1,0 +1,13 @@
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.exe
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.deps.json
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.runtimeconfig.json
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.runtimeconfig.dev.json
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.AssemblyInfoInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.AssemblyInfo.cs
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.genruntimeconfig.cache

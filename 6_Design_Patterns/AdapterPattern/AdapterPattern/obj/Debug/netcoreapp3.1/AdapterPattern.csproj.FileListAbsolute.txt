@@ -1,0 +1,13 @@
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.exe
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.json
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.dev.json
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.genruntimeconfig.cache
