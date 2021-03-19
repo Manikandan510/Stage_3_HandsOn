@@ -16,9 +16,10 @@ namespace ChainOfResponsibility
 
         public void HandlerRequest(LeaveRequest leave)
         {
+           
             if (leave.LeaveDays >3 && leave.LeaveDays <=5)
             {
-                Console.WriteLine("ProjectManager approved leave");
+                Console.WriteLine("ProjectManager approved"+ " leave for " + leave.LeaveDays + " days to " + leave.Employee);
             }
             else
             {

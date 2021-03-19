@@ -16,14 +16,8 @@ namespace ChainOfResponsibility
 
         public void HandlerRequest(LeaveRequest leave)
         {
-            if (leave.LeaveDays > 5)
-            {
-                Console.WriteLine("HR Approved Leave");
-            }
-            else 
-            {
-                Console.WriteLine("Leaves Rejected by HR");
-            }
+            
+            Console.WriteLine("HR Approved" + " leave for " + leave.LeaveDays + " days to " + leave.Employee);
         }
     }
 }

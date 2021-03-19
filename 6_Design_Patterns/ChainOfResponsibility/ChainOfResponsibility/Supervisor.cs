@@ -16,9 +16,10 @@ namespace ChainOfResponsibility
 
         public void HandlerRequest(LeaveRequest leave)
         {
+            
             if (leave.LeaveDays >= 1 && leave.LeaveDays < 3)
             {
-                Console.WriteLine("Supervisor approved leave");
+                Console.WriteLine("Supervisor approved" + " leave for " + leave.LeaveDays + " days to " + leave.Employee);
             }
             else 
             {
