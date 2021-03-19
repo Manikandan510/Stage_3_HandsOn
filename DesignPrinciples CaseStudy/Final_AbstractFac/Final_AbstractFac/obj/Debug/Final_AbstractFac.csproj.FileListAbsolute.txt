@@ -1,0 +1,7 @@
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Final_AbstractFac\Final_AbstractFac\bin\Debug\Final_AbstractFac.exe.config
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Final_AbstractFac\Final_AbstractFac\bin\Debug\Final_AbstractFac.exe
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Final_AbstractFac\Final_AbstractFac\bin\Debug\Final_AbstractFac.pdb
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Final_AbstractFac\Final_AbstractFac\obj\Debug\Final_AbstractFac.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Final_AbstractFac\Final_AbstractFac\obj\Debug\Final_AbstractFac.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Final_AbstractFac\Final_AbstractFac\obj\Debug\Final_AbstractFac.exe
+D:\C#\Stage_3Handsons\DesignPrinciples CaseStudy\Final_AbstractFac\Final_AbstractFac\obj\Debug\Final_AbstractFac.pdb
