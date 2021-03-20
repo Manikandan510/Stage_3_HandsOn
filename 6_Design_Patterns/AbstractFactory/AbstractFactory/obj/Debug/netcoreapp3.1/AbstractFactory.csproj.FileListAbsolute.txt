@@ -1,0 +1,13 @@
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache

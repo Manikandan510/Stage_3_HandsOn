@@ -22,7 +22,7 @@ namespace AbstractFactory
         {
             public void tire()
             {
-                Console.WriteLine("Audi Tire");
+                Console.WriteLine("Mercedes Tire");
             }
         }
     }
