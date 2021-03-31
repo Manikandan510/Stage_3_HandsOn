@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title></title>
+    <style>
+
+        #fav:hover{
+            font-size:20px;
+            color:red;
+            cursor:pointer;
+        }
+        .navbar-toggle .icon-bar {
+            display:block;
+            width:22px;
+            height:2px;
+            border-radius:1px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <h2><a class="text-white" href="#">hTrack</a></h2>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menuitems" aria-controls="menuitems" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="menuitems">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link text-light" href="#">Products</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-light" href="#">Goals</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <br/>
+    <div class="container-fluid">
+        <div class="container border border-dark">
+            <h5 class="font-weight-bold">Products</h5>
+            <div class="row">
+
+                <div class="card col-lg-3 col-md-4">
+                    <img class="card-img-top" width="150" height="200" src="Images/s21.jpg" alt="Samsung" />
+                    <div class="card-body">
+                        <h6>SAMSUNG GALAXY S21 ULTRA  <span class="badge badge-success"> 4.5 <i class="material-icons text-white" style="font-size:12px">star</i></span></h6>
+                        <p>₹ 1,05,999.00   <strike>₹ 1,28,999</strike>   <i class="material-icons text-danger" style="font-size:17px">local_offer</i></p>
+                        <small class="card-text">
+                            PRE-REGISTER PRE-ORDER BUY NOW. Close-up of Galaxy S21 Ultra 5G phone in Phantom Black seen from the rear at an angle, focused on its four cameras: Ultra Wide Camera, Wide-angle Camera, and two Telephoto Cameras.
+                        </small>
+                        <p>
+                            <span class="badge badge-primary" style="font-size:15px"><a href="https://www.samsung.com/in/smartphones/galaxy-s21-5g/buy/?cid=in_paid_ppc_google_galaxy-s21_none_samsunggalaxys21-eshop-bau-rlsa-tactical_text_20210115_12087086301-121997768368-samsung%20s21%20ultra--509892521907-aud-735627946306:kwd-891304497520&gclid=Cj0KCQjw9YWDBhDyARIsADt6sGaFGsixEyVvc1yKYI4hTaW2Z14YGqW8xF6tRa4iKrh5gevv2uNj-jMaAsI5EALw_wcB"><i class="material-icons text-white" style="font-size:15px">shopping_cart</i></a> Add to Cart</span>   <i class="material-icons" id="fav" style="font-size:20px">favorite_border</i>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="card col-lg-3 col-md-4">
+                    <img class="card-img-top" width="150" height="200" src="Images/Oneplus.jpg" alt="OnePlus" />
+                    <div class="card-body">
+                        <h6>ONEPLUS 7 PRO  (90Hz Display)<span class="badge badge-success"> 4.5 <i class="material-icons text-white" style="font-size:12px">star</i></span></h6>
+                        <p>₹ 52,000.00   <strike>₹55,000.00</strike>   <i class="material-icons text-danger" style="font-size:17px">local_offer</i></p>
+                        <small class="card-text">
+                            The 6.67 inch Fluid AMOLED display on the OnePlus 7 Pro is our most advanced screen ever. Experience unrivalled smoothness and clarity with a 90 Hz refresh rate and QHD+ resolution, designed to display your content with dramatic clarity.
+                        </small>
+                        <p>
+                            <span class="badge badge-primary" style="font-size:15px"><a href="https://www.oneplus.in/7pro#/"><i class="material-icons text-white" style="font-size:15px">shopping_cart</i></a> Add to Cart</span>   <i class="material-icons" id="fav" style="font-size:20px">favorite_border</i>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="card col-lg-3 col-md-4">
+                    <img class="card-img-top" width="150" height="200" src="Images/applewatch.jpg" alt="Apple Watch" />
+                    <div class="card-body">
+                        <h6>Apple Watch Series 6  <span class="badge badge-warning"> 3.5 <i class="material-icons text-white" style="font-size:12px">star</i></span></h6>
+                        <p>₹ 25,00.00   <strike>₹ 29,000.00</strike>   <i class="material-icons text-danger" style="font-size:17px">local_offer</i></p>
+                        <small class="card-text">
+                            The new Apple Watch Series 6 and the new Apple Watch SE. Buy direct from Apple. Services: Shop with Specialists, No-contact free delivery, EMI available, Direct from Apple.
+                        </small>
+                        <p>
+                            <span class="badge badge-primary" style="font-size:15px"><a href="https://www.apple.com/in/apple-watch-series-6/?afid=p238%7CsY7zAMnCa-dc_mtid_187079nc38483_pcrid_509949306475_pgrid_110632497534_&cid=aos-IN-kwgo-brand--slid---product-"><i class="material-icons text-white" style="font-size:15px">shopping_cart</i></a> Add to Cart</span>   <i class="material-icons" id="fav" style="font-size:20px">favorite_border</i>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="card col-lg-3 col-md-4">
+                    <img class="card-img-top" width="150" height="200" src="Images/Iphone.jpg" alt="Iphone" />
+                    <div class="card-body">
+                        <h6>Apple Iphone 12 Pro Max (256GB)<span class="badge badge-danger"> 2.3 <i class="material-icons text-white" style="font-size:12px">star</i></span></h6>
+                        <p>₹ 1,29,999.00   <strike>₹ 1,39,999</strike>   <i class="material-icons text-danger" style="font-size:17px">local_offer</i></p>
+                        <small class="card-text">
+                            Less bezel, more screen. Buy now. Dolby Vision recording. Night mode portraits. Ceramic Shield. Low-light photography. Super Retina XDR display. LiDAR Scanner. A14 Bionic chip. EMI available, Shop with Specialists.
+                        </small>
+                        <p>
+                            <span class="badge badge-primary" style="font-size:15px"><a href="https://www.apple.com/in/iphone-12-pro/"><i class="material-icons text-white" style="font-size:15px">shopping_cart</i></a> Add to Cart</span>   <i class="material-icons" id="fav" style="font-size:20px">favorite_border</i>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>
